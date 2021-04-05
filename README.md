@@ -18,5 +18,3 @@ ionic serve
 ```
 
 Alternatively, you can add the iOS, Android platform and run natively.
-
-## Are you on Twitter? Lets connect [@93alan](https://twitter.com/93alan)
